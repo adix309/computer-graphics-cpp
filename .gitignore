@@ -1,0 +1,36 @@
+# C++Builder build output
+Win32/
+Win64/
+Debug/
+Release/
+
+# C++Builder history and backups
+__history/
+__recovery/
+*.~*
+*.bak
+
+# Compiled files
+*.obj
+*.o
+*.exe
+*.dll
+*.lib
+*.tds
+*.pdb
+*.map
+*.dcu
+
+# C++Builder generated/local files
+*.cbproj.local
+*.identcache
+*.stat
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
